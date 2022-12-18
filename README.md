@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Maengdok
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning Web / Web Mobile development
-- 💞️ I’m looking to collaborate on Symfony
-- 📫 How to reach me ...
+- 🌱 I’m currently working at BETC while learning Web / Web Mobile development at MyDigitalSchool in Paris
+- 💞️ I’m looking to collaborate on Symfony, Django
+- 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/axelpion/)
 
 <!---
 Maengdok/Maengdok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
