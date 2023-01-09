@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Symfony, Django
 - 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/axelpion/)
 
-- Find my projects during MyDigitalSchool studies on the [MDS](https://github.com/Axel-Pion-MDS) Organization
+- Find my projects during MyDigitalSchool studies on the [MDS](https://github.com/orgs/Axel-Pion-MDS/repositories) Organization
 
 <!---
 Maengdok/Maengdok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
