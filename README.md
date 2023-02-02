@@ -83,6 +83,23 @@
     
 <td>
 
+[![B3 Anthill](https://img.shields.io/badge/B3-Anthill-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Axel-Pion-MDS/B3_Anthill)
+[![B3 Chatbot](https://img.shields.io/badge/B3-ChatBot-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/Axel-Pion-MDS/B3_ChatBot)
+[![B3 Web Integration](https://img.shields.io/badge/B3-Integration_Web-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/Axel-Pion-MDS/B3_Integration_Web)
+[![B3 Lyve](https://img.shields.io/badge/B3-Lyve-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/Axel-Pion-MDS/B3_Lyve)
+[![B3 PHP](https://img.shields.io/badge/B3-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/Axel-Pion-MDS/B3_PHP)
+[![B3 React Calculator](https://img.shields.io/badge/B3-React_Calculator-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/Axel-Pion-MDS/B3_React_Calculator)
+[![B3 SQL](https://img.shields.io/badge/B3-SQL-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/Axel-Pion-MDS/B3_SQL)
+[![B3 Uniblog](https://img.shields.io/badge/B3-Uniblog-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/Axel-Pion-MDS/B3_uniblog)
+[![B3 Violent Clock](https://img.shields.io/badge/B3-Violent_Clock-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/Axel-Pion-MDS/B3_Violent_Clock)
+[![M1 PHP POO](https://img.shields.io/badge/B1-PHP_POO-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/Axel-Pion-MDS/M1_PHP_OOP)
+[![M1 Back Project Timer](https://img.shields.io/badge/M1_Back-Project_Timer-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/Axel-Pion-MDS/M1_Project_Timer_Back)
+[![M1 Front Project Timer](https://img.shields.io/badge/M1_Front-Project_Timer-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)](https://github.com/Axel-Pion-MDS/M1_Project_Timer_Front)
+[![M1 SpaceX](https://img.shields.io/badge/M1-SpaceX-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/Axel-Pion-MDS/M1_ReactJS_SpaceX)
+[![M1 Rest Api](https://img.shields.io/badge/M1-Rest_Api-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/Axel-Pion-MDS/M1_Rest_Api)
+[![M1 Back Secret Santa](https://img.shields.io/badge/M1_Back-Secret_Santa-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/Axel-Pion-MDS/M1_Secret_Santa_Back)
+[![M1 Front Secret Santa](https://img.shields.io/badge/M1_Front-Secret_Santa-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/Axel-Pion-MDS/M1_Secret_Santa_Front)
+
 </td>
 </tr>
 
