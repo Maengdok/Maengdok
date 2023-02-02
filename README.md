@@ -133,10 +133,7 @@ MyDigitalSchool projects : <br />
 
 <div align="center"> 
     <a href="https://github.com/anuraghazra/github-readme-stats"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=Maengdok&&show_icons=true&theme=dracula"/>
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maengdok&theme=dracula"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Maengdok&show_icons=true&theme=dracula"/>
     </a>
 </div>
   
