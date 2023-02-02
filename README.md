@@ -15,7 +15,7 @@
 <table>
 <tr>
 <td>
-    <p><strong>IT Languages</strong></p>
+    <p align="center"><strong>IT Languages</strong></p>
 </td>
 <td>
             
@@ -30,7 +30,7 @@
 </tr>
 <tr>
 <td>
-    <p><strong>Framework</strong></p>
+    <p align="center"><strong>Framework</strong></p>
 </td>
 <td>
 
@@ -43,7 +43,7 @@
 </tr>
 <tr>
 <td>
-    <p><strong>Database</strong></p>
+    <p align="center"><strong>Database</strong></p>
 </td>
 <td>
 
@@ -55,7 +55,7 @@
     
 <tr>
 <td>
-    <p><strong>Languages</strong></p>
+    <p align="center"><strong>Languages</strong></p>
 </td>
 <td>
 
@@ -68,7 +68,7 @@
     
 <tr>
 <td>
-    <p><strong>Projects</strong></p>
+    <p align="center"><strong>Projects</strong></p>
 </td>
     
 <td>
@@ -78,7 +78,7 @@
     
 <tr>
 <td>
-    <p><strong>MDS Projects</strong></p>
+    <p align="center"><strong>MDS Projects</strong></p>
 </td>
     
 <td>
@@ -129,7 +129,7 @@ Currently working at [BETC](https://betc.com/fr/) Paris
 - Animals
 
 
-# Miscellaneous
+# 
 
 <img alt="Gumiho Gif" align="right" src="./assets/gumiho.gif">
 
