@@ -60,15 +60,15 @@ MyDigitalSchool projects : <br />
 <br />
 <br />
 
-
-<div align="center">
-    <p align="center">  
-        <br />
-        <a href="https://github.com/anuraghazra/github-readme-stats"> 
-            <img src="https://github-readme-stats.vercel.app/api?username=Maengdok&&show_icons=true&theme=dracula"/>
-        </a>
-    </p>
+<div align="center"> 
+    <a href="https://github.com/anuraghazra/github-readme-stats"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=Maengdok&&show_icons=true&theme=dracula"/>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maengdok&theme=dracula"/>
+    </a>
 </div>
+  
 
 <!---
 Maengdok/Maengdok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
