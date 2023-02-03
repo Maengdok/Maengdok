@@ -92,7 +92,7 @@
 [![B3 SQL](https://img.shields.io/badge/B3-SQL-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/Axel-Pion-MDS/B3_SQL)
 [![B3 Uniblog](https://img.shields.io/badge/B3-Uniblog-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/Axel-Pion-MDS/B3_uniblog)
 [![B3 Violent Clock](https://img.shields.io/badge/B3-Violent_Clock-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/Axel-Pion-MDS/B3_Violent_Clock)
-[![M1 PHP POO](https://img.shields.io/badge/B1-PHP_POO-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/Axel-Pion-MDS/M1_PHP_OOP)
+[![M1 PHP POO](https://img.shields.io/badge/M1-PHP_POO-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/Axel-Pion-MDS/M1_PHP_OOP)
 [![M1 Back Project Timer](https://img.shields.io/badge/M1_Back-Project_Timer-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/Axel-Pion-MDS/M1_Project_Timer_Back)
 [![M1 Front Project Timer](https://img.shields.io/badge/M1_Front-Project_Timer-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)](https://github.com/Axel-Pion-MDS/M1_Project_Timer_Front)
 [![M1 SpaceX](https://img.shields.io/badge/M1-SpaceX-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/Axel-Pion-MDS/M1_ReactJS_SpaceX)
