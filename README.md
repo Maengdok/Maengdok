@@ -59,9 +59,9 @@
 </td>
 <td>
 
-![Français](https://img.shields.io/badge/%F0%9F%87%AB%F0%9F%87%B7-Fran%C3%A7ais-%23ee2436?style=for-the-badge&labelColor=%23001d96)
-![English](https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-English-%23b41c31?style=for-the-badge&labelColor=%233c3b6e)
-![Korean](https://img.shields.io/badge/%F0%9F%87%B0%F0%9F%87%B7-%ED%95%9C%EA%B5%AD%EC%96%B4-%23013378?style=for-the-badge&labelColor=%23c62631)
+![Français](https://img.shields.io/badge/%F0%9F%87%AB%F0%9F%87%B7Fr-an%C3%A7ais-%23ee2436?style=for-the-badge&labelColor=%23001d96)
+![English](https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8En-glish-%23b41c31?style=for-the-badge&labelColor=%233c3b6e)
+![Korean](https://img.shields.io/badge/%F0%9F%87%B0%F0%9F%87%B7%ED%95%9C-%EA%B5%AD%EC%96%B4-%23013378?style=for-the-badge&labelColor=%23c62631)
     
 </td>
 </tr>
