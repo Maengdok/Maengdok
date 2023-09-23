@@ -37,10 +37,21 @@
 ![Symfony](https://img.shields.io/badge/Symfony-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+    
+</td>
+</tr>
+
+<tr>
+<td>
+    <p align="center"><strong>Libraries</strong></p>
+</td>
+<td>
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
     
 </td>
 </tr>
+
 <tr>
 <td>
     <p align="center"><strong>Database</strong></p>
