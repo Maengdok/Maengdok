@@ -83,6 +83,9 @@
 </td>
     
 <td>
+    
+[![M2 Back Jizo](https://img.shields.io/badge/M2_Back-Jizo-D67A0E?style=for-the-badge&logo=django&logoColor=white)](https://github.com/MDSU-Jizo/back)
+[![M2 Front Jizo](https://img.shields.io/badge/M2_Front-Jizo-D67A0E?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/MDSU-Jizo/back)
 
 </td>
 </tr>
@@ -110,6 +113,7 @@
 [![M1 Rest Api](https://img.shields.io/badge/M1-Rest_Api-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/Axel-Pion-MDS/M1_Rest_Api)
 [![M1 Back Secret Santa](https://img.shields.io/badge/M1_Back-Secret_Santa-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/Axel-Pion-MDS/M1_Secret_Santa_Back)
 [![M1 Front Secret Santa](https://img.shields.io/badge/M1_Front-Secret_Santa-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/Axel-Pion-MDS/M1_Secret_Santa_Front)
+[![M2 FoodApp](https://img.shields.io/badge/M1_Front-Food_App-20232A?style=for-the-badge&logo=flutter&logoColor=#02569B)](https://github.com/Axel-Pion-MDS/M1_Secret_Santa_Front)
 
 </td>
 </tr>
