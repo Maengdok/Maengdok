@@ -3,7 +3,7 @@
 # 안녕하세요 
     
     
-![Gumiho from Marvel's Shang-Chi movie](./assets/167483635019151515.gif)
+<img alt="Gumiho Gif" align="center" src="./assets/gumiho.gif">
     
     
 ### ~ Axel a.k.a @Maengdok, born in 1992, FullStack Web Developer 
@@ -119,7 +119,6 @@
 
 # 
 
-<img height="400" width="500" alt="GIF" align="right" src="./assets/fb2e19611a734e3abe483195ab7fb3c0.gif">
 
 ### Actual Work
 Currently working at [BETC](https://betc.com/fr/) Paris
@@ -142,7 +141,6 @@ Currently working at [BETC](https://betc.com/fr/) Paris
 
 # 
 
-<img alt="Gumiho Gif" align="right" src="./assets/gumiho.gif">
 
 ### School Projects
 
@@ -158,12 +156,6 @@ MyDigitalSchool projects : <br />
 <br />
 
 # 
-
-<div align="center"> 
-    <a href="https://github.com/anuraghazra/github-readme-stats"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=Maengdok&show_icons=true&theme=dracula"/>
-    </a>
-</div>
   
 
 <!---
