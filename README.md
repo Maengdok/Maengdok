@@ -129,6 +129,17 @@ Currently working at [BETC](https://betc.com/fr/) Paris
 
 ### Skills
 
+- Symfony
+- PHP
+- Django
+- Python
+- MySQL
+- PostgreSQL
+- Docker
+- NodeJs
+- ReactJs
+- React Native
+- Figma
 
 ### Studies
 - FullStack Web Developer Master degree at [MyDigitalSchool](https://www.mydigitalschool.com/) in Paris
