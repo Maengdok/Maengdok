@@ -129,17 +129,16 @@ Currently working at [BETC](https://betc.com/fr/) Paris
 
 ### Skills
 
-- Symfony
-- PHP
-- Django
-- Python
-- MySQL
-- PostgreSQL
-- Docker
-- NodeJs
-- ReactJs
-- React Native
-- Figma
+![Symfony](https://img.shields.io/badge/Symfony-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-3776AB?style=for-the-badge&logo=docker&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-2496ED?style=for-the-badge&logo=javascript&logoColor=white)
+![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Studies
 - FullStack Web Developer Master degree at [MyDigitalSchool](https://www.mydigitalschool.com/) in Paris
@@ -151,7 +150,8 @@ Currently working at [BETC](https://betc.com/fr/) Paris
 - Language exchange
 - Korean culture
 - Video games
-- Animals
+- Travel
+- Anime
 
 
 # 
