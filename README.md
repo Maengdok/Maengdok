@@ -125,7 +125,7 @@
 
 
 ### Actual Work
-Currently working at [BETC](https://betc.com/fr/) Paris
+Currently looking for a job
 
 ### Skills
 
@@ -141,8 +141,8 @@ Currently working at [BETC](https://betc.com/fr/) Paris
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Studies
-- FullStack Web Developer Master degree at [MyDigitalSchool](https://www.mydigitalschool.com/) in Paris
-- Korean Studies Licence degree at [Paris 7 Diderot LCAO](https://u-paris.fr/lcao/en/)
+- Digital Project Manager (specialization: Fullstack Developer) Master degree at [MyDigitalSchool](https://www.mydigitalschool.com/) in Paris
+- Korean Studies Bachelor degree at [Paris 7 Diderot LCAO](https://u-paris.fr/lcao/en/)
 
 
 ### Interests
