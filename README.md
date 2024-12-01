@@ -6,7 +6,7 @@
 <img alt="Gumiho Gif" align="center" src="./assets/gumiho.gif">
     
     
-### ~ Axel a.k.a Maengdok, born in 1992, FullStack Web Developer 
+### ~ Axel a.k.a Maengdok, FullStack Web Developer 
     
 </div>
 
