@@ -1,179 +1,124 @@
 <div align="center">
-
-# 안녕하세요 
-    
-    
 <img alt="Gumiho Gif" align="center" src="./assets/gumiho.gif">
-    
-    
-### ~ Axel a.k.a Maengdok, FullStack Web Developer 
-    
 </div>
 
-# 
+# Hi, I'm Axel 👋
+   
+**Lead FullStack Software Engineer** specializing in API architectures and modern web applications  
+📍 Paris, France
+ 
+Experienced in building scalable applications with Symfony, Django, React, and Docker.  
+Focused on infrastructure optimization, containerization, and team leadership.
 
-<table>
-<tr>
-<td>
-    <p align="center"><strong>IT Languages</strong></p>
-</td>
-<td>
-            
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-            
-</td>
-</tr>
-<tr>
-<td>
-    <p align="center"><strong>Framework</strong></p>
-</td>
-<td>
+**Open to international opportunities** 🌏  
+Particularly interested in **South Korea** and East Asia  
+Korean language skills (A2+) • Visa sponsorship required
 
-![Symfony](https://img.shields.io/badge/Symfony-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-    
-</td>
-</tr>
+---
 
-<tr>
-<td>
-    <p align="center"><strong>Libraries</strong></p>
-</td>
-<td>
+## 🛠️ Tech Stack
+ 
+**Backend**  
+Symfony • Django • PHP • Python • NestJS • ZendFramework
+ 
+**Frontend**  
+React • React Native • TypeScript • JavaScript
+ 
+**Database & Tools**  
+MySQL • PostgreSQL • Docker • Power BI • Figma • Git • OpenAI API
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-    
-</td>
-</tr>
+---
 
-<tr>
-<td>
-    <p align="center"><strong>Database</strong></p>
-</td>
-<td>
+## 💼 Professional Experience
+ 
+### Lead FullStack Software Engineer @ Didaxis
+*Jan 2025 - Present*
+ 
+Leading the complete redesign of a freelance management platform from PHP 5.6 to modern stack.
+ 
+- 🏗️ Architected and implemented v.2 core API with **Symfony**
+- ⚛️ Built multiple interfaces using **React** and **TypeScript**
+- 🐳 Containerized applications with **Docker**
+- 🚀 Improved server infrastructure and deployment processes
+- 👥 Recruited and organized the IT department
 
-![MySLQ](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-    
-</td>
-</tr>
-    
-<tr>
-<td>
-    <p align="center"><strong>Languages</strong></p>
-</td>
-<td>
+### FullStack Developer @ [BETC](https://www.betc.com/)
+*Oct 2021 - Sep 2024*
+ 
+Developed and maintained web applications.
+ 
+- 🔧 Built internal projects with **Symfony** and **ZendFramework**
+- 📊 Created data analysis reports using **Power BI**
+- 🗄️ Managed **MySQL** databases and performance optimization
+- 🚢 Deployed projects via **Jenkins** CI/CD pipelines
+- 🤝 Collaborated with frontend teams on full-stack features
 
-![Français](https://img.shields.io/badge/%F0%9F%87%AB%F0%9F%87%B7Fr-an%C3%A7ais-%23ee2436?style=for-the-badge&labelColor=%23001d96)
-![English](https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8En-glish-%23b41c31?style=for-the-badge&labelColor=%233c3b6e)
-![Korean](https://img.shields.io/badge/%F0%9F%87%B0%F0%9F%87%B7%ED%95%9C-%EA%B5%AD%EC%96%B4-%23013378?style=for-the-badge&labelColor=%23c62631)
-    
-</td>
-</tr>
-    
-<tr>
-<td>
-    <p align="center"><strong>Projects</strong></p>
-</td>
-    
-<td>
-    
-[![M2 Back Jizo](https://img.shields.io/badge/M2_Back-Jizo-D67A0E?style=for-the-badge&logo=django&logoColor=white)](https://github.com/MDSU-Jizo/back)
-[![M2 Front Jizo](https://img.shields.io/badge/M2_Front-Jizo-D67A0E?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/MDSU-Jizo/back)
+### FullStack Developer & Project Lead @ Jizo
+*Sep 2023 - Jun 2024 (Academic Project)*
+ 
+AI-powered personalized travel itinerary application using OpenAI.
+ 
+- 🤖 Developed backend with **Django** and integrated **OpenAI API**
+- 📱 Built mobile app with **React Native**
+- 🐳 Deployed with **Docker**, **ELK Stack** logging, and **Grafana** monitoring
+- 👨‍💼 Led a team of 5, managing marketing, design validation, and task distribution
+- ✅ Implemented unit testing and quality assurance
 
-</td>
-</tr>
-    
-<tr>
-<td>
-    <p align="center"><strong>MDS Projects</strong></p>
-</td>
-    
-<td>
+---
 
-[![B3 Anthill](https://img.shields.io/badge/B3-Anthill-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Axel-Pion-MDS/B3_Anthill)
-[![B3 Chatbot](https://img.shields.io/badge/B3-ChatBot-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/Axel-Pion-MDS/B3_ChatBot)
-[![B3 Web Integration](https://img.shields.io/badge/B3-Integration_Web-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/Axel-Pion-MDS/B3_Integration_Web)
-[![B3 Lyve](https://img.shields.io/badge/B3-Lyve-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/Axel-Pion-MDS/B3_Lyve)
-[![B3 PHP](https://img.shields.io/badge/B3-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/Axel-Pion-MDS/B3_PHP)
-[![B3 React Calculator](https://img.shields.io/badge/B3-React_Calculator-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/Axel-Pion-MDS/B3_React_Calculator)
-[![B3 SQL](https://img.shields.io/badge/B3-SQL-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/Axel-Pion-MDS/B3_SQL)
-[![B3 Uniblog](https://img.shields.io/badge/B3-Uniblog-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/Axel-Pion-MDS/B3_uniblog)
-[![B3 Violent Clock](https://img.shields.io/badge/B3-Violent_Clock-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/Axel-Pion-MDS/B3_Violent_Clock)
-[![M1 PHP POO](https://img.shields.io/badge/M1-PHP_POO-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/Axel-Pion-MDS/M1_PHP_OOP)
-[![M1 Back Project Timer](https://img.shields.io/badge/M1_Back-Project_Timer-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/Axel-Pion-MDS/M1_Project_Timer_Back)
-[![M1 Front Project Timer](https://img.shields.io/badge/M1_Front-Project_Timer-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)](https://github.com/Axel-Pion-MDS/M1_Project_Timer_Front)
-[![M1 SpaceX](https://img.shields.io/badge/M1-SpaceX-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/Axel-Pion-MDS/M1_ReactJS_SpaceX)
-[![M1 Rest Api](https://img.shields.io/badge/M1-Rest_Api-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/Axel-Pion-MDS/M1_Rest_Api)
-[![M1 Back Secret Santa](https://img.shields.io/badge/M1_Back-Secret_Santa-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/Axel-Pion-MDS/M1_Secret_Santa_Back)
-[![M1 Front Secret Santa](https://img.shields.io/badge/M1_Front-Secret_Santa-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/Axel-Pion-MDS/M1_Secret_Santa_Front)
-[![M2 FoodApp](https://img.shields.io/badge/M1_Front-Food_App-20232A?style=for-the-badge&logo=flutter&logoColor=#02569B)](https://github.com/Axel-Pion-MDS/M1_Secret_Santa_Front)
+## 🎓 Education
 
-</td>
-</tr>
+**Master's Degree** - Digital Project Manager (Fullstack Developer)  
+MyDigitalSchool, Paris
 
-</table>
+**Bachelor's Degree equivalent** - Symfony web and mobile developer
+Philiance, Paris
 
+**Bachelor's Degree** - Korean Studies  
+Université Paris Cité (Paris 7 Diderot), LCAO
 
-# 
+---
 
+## 🌏 Languages
+ 
+🇫🇷 French - Native  
+🇬🇧 English - Professional (B2)  
+🇰🇷 Korean - Intermediate (A2+)
 
-### Actual Work
-Currently looking for a job
+---
 
-### Skills
+## 📫 Get in Touch
 
-![Symfony](https://img.shields.io/badge/Symfony-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-3776AB?style=for-the-badge&logo=docker&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-2496ED?style=for-the-badge&logo=javascript&logoColor=white)
-![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axel-baldocchi/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Maengdok)
 
-### Studies
-- Digital Project Manager (specialization: Fullstack Developer) Master degree at [MyDigitalSchool](https://www.mydigitalschool.com/) in Paris
-- Korean Studies Bachelor degree at [Paris 7 Diderot LCAO](https://u-paris.fr/lcao/en/)
+---
 
+## 🚀 Featured Projects
 
-### Interests
-- Coding
-- Language exchange
-- Korean culture
-- Video games
-- Travel
-- Anime
+### [StreamQuest](https://github.com/StreamQuest) - A real-time TTRPG event engine driven by Twitch viewers, built for game masters who stream
+[WIP] Full-Stack application built with NestJS + ReactJS
+**Tech:** NestJS • ReactJS • Typescript • PostgreSQL • Docker
 
+### [**Portfolio**](https://maengdok.fr) - [Back-End](https://github.com/VPS-Maengdok/Portfolio-back) / [Front-End](https://github.com/VPS-Maengdok/Portfolio-front)
+Full-Stack application built with Symfony + ReactJS
+**Tech:** Symfony • ReactJS • Typescript • ProstgreSQL • Docker
 
-# 
+### [**RSS Reader**](https://reader.maengdok.fr) - [Back-End](https://github.com/VPS-Maengdok/Reader-back) / [Front-End](https://github.com/VPS-Maengdok/Reader-front)
+Full-Stack application build with NestJS + ReactJS
+**Tech:** NestJS • ReactJS • Typescript • PostgreSQL • Docker
 
+### [Jizo](https://github.com/MDSU-Jizo) - M2 Capstone Project
+Full-Stack application built with Django REST + React Native 
+**Tech:** Django • React Native • PostgreSQL • Docker
 
-### School Projects
+---
 
-MyDigitalSchool projects : <br />
-[![MDS](https://img.shields.io/badge/MDS-Organization-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/Axel-Pion-MDS/repositories)
+<div align="center">
 
-### Reach me on
+### 💡 Interests
+Gaming • Travel • Language Exchange • Mythology
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axelpion/)
-<br />
-<br />
-<br />
-<br />
+[View All Projects →](https://github.com/Axel-Pion-MDS)
 
-# 
-  
-
-<!---
-Maengdok/Maengdok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
