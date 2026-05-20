@@ -96,7 +96,7 @@ Université Paris Cité (Paris 7 Diderot), LCAO
 
 ## 🚀 Featured Projects
 
-### [StreamQuest](https://github.com/StreamQuest) - A real-time TTRPG event engine driven by Twitch viewers, built for game masters who stream
+### [StreamQuest](https://github.com/WeaveCast/stream-quest-back) - A real-time TTRPG event engine driven by Twitch viewers, built for game masters who stream
 [WIP] Full-Stack application built with NestJS + ReactJS
 **Tech:** NestJS • ReactJS • Typescript • PostgreSQL • Docker
 
