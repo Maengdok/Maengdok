@@ -119,6 +119,4 @@ Full-Stack application built with Django REST + React Native
 ### 💡 Interests
 Gaming • Travel • Language Exchange • Mythology
 
-[View All Projects →](https://github.com/Axel-Pion-MDS)
-
 </div>
