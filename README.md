@@ -4,7 +4,7 @@
 
 # Hi, I'm Axel 👋
    
-**Lead FullStack Software Engineer** specializing in API architectures and modern web applications  
+** FullStack Developer** specializing in API architectures and modern web applications  
 📍 Paris, France
  
 Experienced in building scalable applications with Symfony, Django, React, and Docker.  
