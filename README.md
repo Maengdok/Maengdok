@@ -31,7 +31,7 @@ MySQL • PostgreSQL • Docker • Power BI • Figma • Git • OpenAI API
 
 ## 💼 Professional Experience
  
-### Lead FullStack Software Engineer @ Didaxis
+### FullStack Software Engineer @ Didaxis
 *Jan 2025 - Present*
  
 Leading the complete redesign of a freelance management platform from PHP 5.6 to modern stack.
