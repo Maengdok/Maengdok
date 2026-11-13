@@ -36,8 +36,7 @@ MySQL • PostgreSQL • Docker • Power BI • Figma • Git • OpenAI API
  
 Leading the complete redesign of a freelance management platform from PHP 5.6 to modern stack.
  
-- 🏗️ Architected and implemented v.2 core API with **Symfony**
-- ⚛️ Built multiple interfaces using **React** and **TypeScript**
+- 🏗️ Architected the v.2 core API with **Symfony**
 - 🐳 Containerized applications with **Docker**
 - 🚀 Improved server infrastructure and deployment processes
 - 👥 Recruited and organized the IT department
